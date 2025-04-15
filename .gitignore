@@ -1,0 +1,16 @@
+ECHO is on.
+
+# Віртуальне середовище
+venv/
+my_env/
+# База даних SQLite
+db.sqlite3
+# Кеш Python
+__pycache__/
+*.pyc
+# Логи та тимчасові файли
+*.log
+*.pid
+# Редактори
+.vscode/
+.idea/
